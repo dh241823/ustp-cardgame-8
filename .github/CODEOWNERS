@@ -1,4 +1,4 @@
 # Code ownership rules
 
 # Require reviews from both owners for settings configuration changes
-.github/settings.yml @dh241823 @kevinlopci
+.github/settings.yml @dh241823 #@kevinlopci
